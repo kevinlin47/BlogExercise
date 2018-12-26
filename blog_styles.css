@@ -1,5 +1,10 @@
 body{
 	border: solid #bdc3c7 20px;
+	padding:  1% 2%; /*veritcal | horizontal*/
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 2%;
+	padding-bottom: 5%;
 }
 
 h2{
@@ -14,4 +19,20 @@ h2{
 	font-weight: 700;
 	text-transform: uppercase;
 	opacity: 0.8;
+	letter-spacing: 1.5px;
+}
+
+p{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
+
+}
+
+.post p:nth-of-type(2){
+	border-left: solid 5px #bdc3c7;
+	padding-left: 1%;
+}
+
+hr{
+	color: grey;
 }

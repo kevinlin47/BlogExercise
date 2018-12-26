@@ -7,3 +7,11 @@ h2{
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 700; 
 }
+
+.date{
+	color: #3498db;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 700;
+	text-transform: uppercase;
+	opacity: 0.8;
+}
